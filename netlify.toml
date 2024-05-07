@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "https://raw.githubusercontent.com/:splat"
+  to = "https://mt1.google.com/:splat"
   status = 200
